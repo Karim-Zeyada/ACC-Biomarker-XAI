@@ -1,0 +1,19 @@
+{
+  "pipeline_version": "1.0",
+  "n_samples": 79,
+  "n_features": 2000,
+  "log2_transform": true,
+  "cv_threshold": 0.1,
+  "top_k_genes": 2000,
+  "genes_after_cv_filter": 49707,
+  "clustering_method": "KMeans(k=2, PCA 90% variance)",
+  "pca_components_used": 52,
+  "silhouette_score": 0.1313,
+  "class_distribution": {
+    "Cluster_2": 45,
+    "Cluster_1": 34
+  },
+  "smote_needed": false,
+  "normalization": "Z-score (StandardScaler)",
+  "random_seed": 42
+}

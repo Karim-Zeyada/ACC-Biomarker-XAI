@@ -1,6 +1,6 @@
 # ACC Biomarker Discovery via Explainable AI
 
-> **Bachelor's Thesis** — Biomedical Informatics
+> — Biomedical Informatics
 
 Applying explainable machine learning (XAI) to classify Adrenocortical Carcinoma (ACC) molecular subtypes and discover candidate biomarker genes using SHAP analysis on high-dimensional RNA-seq data.
 
@@ -114,4 +114,3 @@ Candidate biomarkers are cross-referenced against known ACC driver genes:
 
 ## License
 
-This project is part of a bachelor's thesis and is intended for academic use.
